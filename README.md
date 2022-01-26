@@ -1,4 +1,5 @@
 # pyspark-event-correlation
+![Build](https://img.shields.io/badge/build-passing-green) ![PyPi](https://img.shields.io/badge/PyPi-1.0.1-blue)
 
 Event Correlation and Forecasting over High Dimensional Streaming Sensor Data algorithms
 
