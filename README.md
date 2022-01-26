@@ -1,5 +1,5 @@
 # pyspark-event-correlation
-![Build](https://img.shields.io/badge/build-passing-green) ![PyPi](https://img.shields.io/badge/PyPi-1.0.1-blue)
+![Build](https://img.shields.io/badge/build-passing-green) ![PyPi](https://img.shields.io/badge/PyPi-1.0.2-blue)
 
 Event Correlation and Changing Detection Algorithm
 
